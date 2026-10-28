@@ -8,7 +8,7 @@ article p:first-child {
 }
 
 article p:nth-child(2) {
-    color: #333;
+    color: black;
 }
 
 article p:last-child {
